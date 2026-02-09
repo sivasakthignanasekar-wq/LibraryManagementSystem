@@ -17,8 +17,8 @@ Key Features:
 =>Deployed and tested on Apache Tomcat
 
 Technologies Used:
-Java
-Oracle XE
-JDBC
-Apache Tomcat
-HTML
+Java,
+Oracle XE,
+JDBC,
+Apache Tomcat,
+HTML.
