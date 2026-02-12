@@ -22,3 +22,12 @@ Oracle XE,
 JDBC,
 Apache Tomcat,
 HTML.
+
+<img width="777" height="532" alt="image" src="https://github.com/user-attachments/assets/28171b8c-2802-4e0c-8fae-1e0627d09edb" />
+
+<img width="645" height="320" alt="image" src="https://github.com/user-attachments/assets/2fa64c9b-18a4-417c-8d7b-d234ef538b48" />
+
+<img width="1043" height="165" alt="image" src="https://github.com/user-attachments/assets/81c3bc10-df29-49c6-8c4b-c35c8debbd24" />
+
+
+
